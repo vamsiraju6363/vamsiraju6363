@@ -1,71 +1,72 @@
-#  Hi, I'm Venkata Vamshi Krishnam Raju, Mudenuri  
+### Hi, I'm Vamshi 👋
 
- **AI & Data Engineer | Generative AI | LLMs | RAG | MLOps | Cloud (AWS, Azure, GCP)**  
+I'm an AI/ML engineer based in Irving, TX. I build LLM-powered systems that actually run in production — mostly RAG pipelines, multi-agent apps, and the evaluation and MLOps plumbing around them.
 
-Welcome to my GitHub! I’m passionate about building **intelligent, scalable, and production-ready AI systems** that bridge the gap between research and real-world deployment. My work spans **Generative AI, Data Engineering, and Cloud Infrastructure Automation.**
-
----
-
-##  About Me  
-
--  Master’s in **Data Science** from **UMass Dartmouth**  
--  Experienced in **fine-tuning Large Language Models (LLMs)** like GPT-4, LLaMA 2, and Mistral  
--  Skilled in **Retrieval-Augmented Generation (RAG)** pipelines and **Multi-Agent Systems** using LangChain & CrewAI  
--  Expertise in **MLOps**, **Cloud Deployment**, and **ETL automation**  
--  Strong foundation in **data analysis, visualization, and statistical modeling**  
--  Passionate about transforming raw data into intelligent, actionable insights  
+- 🔭 Currently an ML/AI Engineer at **Secure SoftTech**, working on a multi-channel RAG platform
+- 🎓 M.S. in Data Science from **UMass Dartmouth** (Dec 2024, GPA 3.78)
+- 🧰 Day-to-day: **Python, FastAPI, LangChain, LangGraph, FAISS, Pinecone, PyTorch, AWS**
+- 📚 Spending time on: LLM evaluation, agentic workflows, and making retrieval systems cheaper to run
+- 🌎 Open to full-time AI/ML roles in the US · on F-1 OPT (STEM extension pending) · need H-1B sponsorship
+- 📫 Reach me: **raju38vamsi@gmail.com**
 
 ---
 
-##  Featured Projects  
+### What I work on
 
-###  [SmartMed: Clinical Summarization LLM](https://github.com/vamsiraju6363/SmartMed)  
-Fine-tuned **LLaMA 2-7B** with QLoRA to summarize unstructured clinical notes.  
-Deployed securely on **Azure ML** with access control and compliance logging.  
- *Tech:* Python, HuggingFace, PyTorch Lightning, LangChain, Azure ML  
+I tend to sit between the model and the product. Typical things I do:
 
----
-
-###  [GenSketch: Text-to-Wireframe Generator](https://github.com/vamsiraju6363/GenSketch)  
-Built a **diffusion-based model** to generate UI wireframes from text prompts.  
-Served through **FastAPI + Streamlit** with GPU inference scaling via Ray Serve.  
- *Tech:* Python, FastAPI, Streamlit, PyTorch, Ray  
+- Design RAG pipelines end to end — ingestion, chunking, embeddings, vector indexing, re-ranking, evaluation
+- Build multi-agent applications with LangGraph and CrewAI, including tool calling and MCP integrations
+- Write evaluation harnesses (RAGAS, TruLens, HELM) so teams can ship LLM features without flying blind
+- Deploy containerized ML services on AWS with CI/CD, observability, and sane rollback paths
+- Occasionally go low-level — I've written CUDA kernels for transformer blocks and RL-based GPU schedulers during my research assistantship
 
 ---
 
-###  [RAG-Based Knowledge Assistant](https://github.com/vamsiraju6363/RAG-Chatbot)  
-Developed a **Retrieval-Augmented Generation system** using FAISS, LangChain, and GPT-4.  
-Supports semantic search, contextual response generation, and prompt safety filters.  
-*Tech:* LangChain, FAISS, OpenAI API, PostgreSQL, Docker  
+### Selected projects
+
+**[Retail Analytics ETL on AWS](https://github.com/vamsiraju6363/Retail-Project)** · PySpark, Glue, Lambda, Athena, QuickSight
+Serverless Bronze → Silver → Gold pipeline. A CSV landing in S3 triggers the whole flow automatically and ends up as an analytics-ready dashboard.
+
+**[Job Application CrewAI](https://github.com/vamsiraju6363/Job_application_crew)** · CrewAI, OpenAI, Serper
+Multi-agent job-discovery tool. Agents search, scrape, parse, and rank openings against a resume using semantic matching.
+
+**[CardWise](https://github.com/vamsiraju6363/cardwise-app)** · Next.js, Prisma, NextAuth, Postgres
+A credit-card-aware shopping helper. Tells you which card to use at which store based on current offers.
+
+**[SymptoBot](https://github.com/vamsiraju6363/AI_SYMPTOM_CHECKER)** · Streamlit, Python, Google Calendar
+Healthcare assistant with doctor chat, prescription Q&A, and automated appointment scheduling.
 
 ---
 
-##  Tech Stack  
+### Tech I reach for
 
-**Languages:** Python, R, SQL, JavaScript  
-**AI / ML:** PyTorch, TensorFlow, HuggingFace, LangChain, CrewAI, scikit-learn  
-**Data / Cloud:** AWS (SageMaker, Lambda), Azure (AKS, ML Studio), GCP (Vertex AI)  
-**Databases:** PostgreSQL, MySQL, MongoDB, Pinecone, FAISS  
-**DevOps / MLOps:** Docker, MLflow, Airflow, GitHub Actions, Terraform  
-**Visualization:** Power BI, Plotly, Streamlit, Tableau  
-
----
-
-##  What I'm Currently Working On  
-
--  **Multi-Agent AI Orchestration** using CrewAI + MCP  
--  **LLM evaluation and monitoring** with OpenTelemetry & Traceloop  
--  Building open-source **RAG utilities** and LLM tool integrations  
--  Expanding **AI deployments** across AWS, Azure, and GCP  
+**Languages** Python · SQL · C++
+**LLM stack** LangChain · LangGraph · CrewAI · FAISS · Pinecone · RAGAS · TruLens · HELM · MCP
+**ML / DL** PyTorch · TensorFlow · Hugging Face · scikit-learn · XGBoost
+**Cloud & MLOps** AWS (S3, Glue, Lambda, EC2, ECS, Athena, SageMaker) · GCP Vertex AI · Azure ML · Docker · GitHub Actions · Airflow · MLflow
+**Backend & data** FastAPI · PostgreSQL · MongoDB · PySpark · Power BI · QuickSight
 
 ---
 
-##  Connect with Me  
+### Currently reading / building
 
- [LinkedIn](https://www.linkedin.com/in/vamsi-raju/)  
- [Portfolio / Projects](https://github.com/vamsiraju6363)  
- **Email:** raju38vamsi@gmail.com  
+- Agentic RAG patterns that actually hold up under weird user queries
+- LLM eval beyond accuracy — faithfulness, context precision, latency/cost tradeoffs
+- Cheaper inference: quantization, speculative decoding, smart caching
 
 ---
 
- *“Transforming data into intelligence, and intelligence into impact.”*  
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vamsi--raju-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/vamsi-raju/)
+[![Email](https://img.shields.io/badge/Email-raju38vamsi%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:raju38vamsi@gmail.com)
+[![Location](https://img.shields.io/badge/Based%20in-Irving%2C%20TX-4F98A3?style=flat-square)](https://maps.google.com/?q=Irving,TX)
+
+<details>
+<summary>📊 GitHub stats</summary>
+
+![Vamshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsiraju6363&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsiraju6363&layout=compact&hide_border=true&theme=default)
+
+</details>
