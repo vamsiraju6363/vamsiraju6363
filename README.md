@@ -1,13 +1,14 @@
-### Hi, I'm Vamshi Raju
+### Hi, I'm Vamshi 👋
 
-I'm an AI/ML engineer based in Frisco, TX. I build LLM-powered systems that actually run in production, mostly RAG pipelines, multi-agent apps, and the evaluation and MLOps plumbing around them.
+I'm an AI/ML engineer based in Irving, TX. I build LLM-powered systems that actually run in production — mostly RAG pipelines, multi-agent apps, and the evaluation and MLOps plumbing around them.
 
--  Currently an ML/AI Engineer at **Secure SoftTech**, working on a multi-channel RAG platform
--  M.S. in Data Science from **UMass Dartmouth** (Dec 2024, GPA 3.78)
--  Day-to-day: **Python, FastAPI, LangChain, LangGraph, FAISS, Pinecone, PyTorch, AWS**
--  Spending time on: LLM evaluation, agentic workflows, and making retrieval systems cheaper to run
--  Open to full-time AI/ML roles in the US · on F-1 OPT  · need H-1B sponsorship
--  Reach me: **vamsi.official36@gmail.com**
+- 🔭 Currently an ML/AI Engineer at **Secure SoftTech**, working on a multi-channel RAG platform
+- 🎓 M.S. in Data Science from **UMass Dartmouth** (Dec 2024, GPA 3.78)
+- 🧰 Day-to-day: **Python, FastAPI, LangChain, LangGraph, FAISS, Pinecone, PyTorch, AWS**
+- 📚 Spending time on: LLM evaluation, agentic workflows, and making retrieval systems cheaper to run
+- 🌎 Open to full-time AI/ML roles in the US · on F-1 OPT (STEM extension pending) · need H-1B sponsorship
+- 🌐 Portfolio: [vamshi-raju portfolio](https://www.perplexity.ai/computer/a/vamshi-raju-ai-ml-engineer-d14s5rFARHekjyc5YWReGA)
+- 📫 Reach me: **raju38vamsi@gmail.com**
 
 ---
 
@@ -19,7 +20,7 @@ I tend to sit between the model and the product. Typical things I do:
 - Build multi-agent applications with LangGraph and CrewAI, including tool calling and MCP integrations
 - Write evaluation harnesses (RAGAS, TruLens, HELM) so teams can ship LLM features without flying blind
 - Deploy containerized ML services on AWS with CI/CD, observability, and sane rollback paths
-- Occasionally go low-level - I've written CUDA kernels for transformer blocks and RL-based GPU schedulers during my research assistantship
+- Occasionally go low-level — I've written CUDA kernels for transformer blocks and RL-based GPU schedulers during my research assistantship
 
 ---
 
@@ -52,7 +53,7 @@ Healthcare assistant with doctor chat, prescription Q&A, and automated appointme
 ### Currently reading / building
 
 - Agentic RAG patterns that actually hold up under weird user queries
-- LLM eval beyond accuracy - faithfulness, context precision, latency/cost tradeoffs
+- LLM eval beyond accuracy — faithfulness, context precision, latency/cost tradeoffs
 - Cheaper inference: quantization, speculative decoding, smart caching
 
 ---
