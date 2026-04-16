@@ -1,14 +1,14 @@
-### Hi, I'm Vamshi 👋
+### Hi, I'm Vamshi Raju
 
-I'm an AI/ML engineer based in Irving, TX. I build LLM-powered systems that actually run in production — mostly RAG pipelines, multi-agent apps, and the evaluation and MLOps plumbing around them.
+I'm an AI/ML engineer based in Frisco, TX. I build LLM-powered systems that actually run in production - mostly RAG pipelines, multi-agent apps, and the evaluation and MLOps plumbing around them.
 
-- 🔭 Currently an ML/AI Engineer at **Secure SoftTech**, working on a multi-channel RAG platform
-- 🎓 M.S. in Data Science from **UMass Dartmouth** (Dec 2024, GPA 3.78)
-- 🧰 Day-to-day: **Python, FastAPI, LangChain, LangGraph, FAISS, Pinecone, PyTorch, AWS**
-- 📚 Spending time on: LLM evaluation, agentic workflows, and making retrieval systems cheaper to run
-- 🌎 Open to full-time AI/ML roles in the US · on F-1 OPT (STEM extension pending) · need H-1B sponsorship
-- 🌐 Portfolio: [vamshi-raju portfolio](https://www.perplexity.ai/computer/a/vamshi-raju-ai-ml-engineer-d14s5rFARHekjyc5YWReGA)
-- 📫 Reach me: **raju38vamsi@gmail.com**
+-  Currently an ML/AI Engineer at **Secure SoftTech**, working on a multi-channel RAG platform
+-  M.S. in Data Science from **UMass Dartmouth** (Dec 2024, GPA 3.78)
+-  Day-to-day: **Python, FastAPI, LangChain, LangGraph, FAISS, Pinecone, PyTorch, AWS**
+-  Spending time on: LLM evaluation, agentic workflows, and making retrieval systems cheaper to run
+-  Open to full-time AI/ML roles in the US · on F-1 OPT  · need H-1B sponsorship
+-  Portfolio: [vamshi-raju portfolio](https://www.perplexity.ai/computer/a/vamshi-raju-ai-ml-engineer-d14s5rFARHekjyc5YWReGA)
+-  Reach me: **vamsi.official36@gmail.com**
 
 ---
 
@@ -61,8 +61,8 @@ Healthcare assistant with doctor chat, prescription Q&A, and automated appointme
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vamsi--raju-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/vamsi-raju/)
-[![Email](https://img.shields.io/badge/Email-raju38vamsi%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:raju38vamsi@gmail.com)
-[![Location](https://img.shields.io/badge/Based%20in-Irving%2C%20TX-4F98A3?style=flat-square)](https://maps.google.com/?q=Irving,TX)
+[![Email](https://img.shields.io/badge/Email-vamsi.official36%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:raju38vamsi@gmail.com)
+[![Location](https://img.shields.io/badge/Based%20in-Frisco%2C%20TX-4F98A3?style=flat-square)](https://maps.google.com/?q=Frisco,TX)
 
 <details>
 <summary>📊 GitHub stats</summary>
