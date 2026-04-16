@@ -7,7 +7,7 @@ I'm an AI/ML engineer based in Frisco, TX. I build LLM-powered systems that actu
 -  Day-to-day: **Python, FastAPI, LangChain, LangGraph, FAISS, Pinecone, PyTorch, AWS**
 -  Spending time on: LLM evaluation, agentic workflows, and making retrieval systems cheaper to run
 -  Open to full-time AI/ML roles in the US · on F-1 OPT  · need H-1B sponsorship
--  Portfolio: [vamshi-raju portfolio](https://www.perplexity.ai/computer/a/vamshi-raju-ai-ml-engineer-d14s5rFARHekjyc5YWReGA)
+-  Portfolio: [vamshi-raju portfolio](vamsiraju6363.github.io)
 -  Reach me: **vamsi.official36@gmail.com**
 
 ---
